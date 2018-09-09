@@ -3,7 +3,9 @@ A tmux plugin that displays a helpful cheatsheet
 
 ## Shortcut key
 <kbd>prefix + M-?</kbd>
-i.e.
+
+which is most likely
+
 <kbd>prefix + Alt-?</kbd>
 
 If you are using the default prefix, then the shortcut key will be

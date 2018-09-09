@@ -5,4 +5,4 @@ A tmux plugin that displays a helpful cheatsheet
 <kbd>prefix + M-?</kbd>, i.e. <kbd>prefix + Alt-?</kbd>
 
 ## Acknowledgements
-Cheatshet adapted from https://gist.github.com/andreyvit/2921703.
+Cheatshet information adapted from https://gist.github.com/andreyvit/2921703.
